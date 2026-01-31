@@ -1,0 +1,21 @@
+# Core dependencies
+torch>=1.9.0
+torch-geometric>=2.0.0
+torch-scatter>=2.0.0
+torch-sparse>=0.6.0
+
+# Data processing and visualization
+numpy>=1.19.0
+pandas>=1.2.0
+matplotlib>=3.3.0
+networkx>=2.5
+
+# Machine learning utilities
+scikit-learn>=0.24.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For better visualizations
+seaborn>=0.11.0
