@@ -2,12 +2,12 @@
 
 A Graph Neural Network (GNN) based approach to detect fake news by analyzing propagation patterns on Twitter using PyTorch Geometric.
 
-## Team Members (TEAM_44)
+## Team Members 
 
-- **Richa Ramesh** - PES1UG20CS712
-- **Apoorva Sarvade** - PES1UG20CS728
-- **Gurukiran** - PES1UG20CS156
-- **Tushar J** - PES1UG20CS472
+- **Richa Ramesh** 
+- **Apoorva Sarvade** 
+- **Gurukiran** 
+- **Tushar J** 
 
 ## Project Overview
 
