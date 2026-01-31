@@ -83,7 +83,7 @@ pip install torch-geometric
 ### Running the Notebook
 
 ```bash
-jupyter notebook TEAM_44.ipynb
+jupyter notebook fake_news.ipynb
 ```
 
 ### Training the Model
@@ -105,7 +105,7 @@ The model typically achieves:
 
 ```
 fake-news-detection-gnn/
-├── TEAM_44.ipynb          # Main notebook with complete implementation
+├── fake_news.ipynb          # Main notebook with complete implementation
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
 ├── .gitignore            # Git ignore file
